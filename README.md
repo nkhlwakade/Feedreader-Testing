@@ -11,6 +11,3 @@ Whether you work in an organization that uses test-driven development or in an o
 1. Download or Clone the repository from [this link.](https://github.com/nkhlwakade/Feedreader-Testing.git)
 2. Open index.html file in any browser.
 
-### OR
-
-To checkout the live version please visit this [link.](https://nkhlwakade.github.io/Feedreader-Testing/)
